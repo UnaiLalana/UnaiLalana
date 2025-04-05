@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Unai Lalana</h1>
 <p align="center">
   🎓 Computer Science Student <br>
   🤖 Focused on Machine Learning & Artificial Intelligence <br>
@@ -11,9 +11,9 @@
 
 
 <ul>
-  <li>📍 Based in [Your City / Country]</li>
+  <li>📍 Based in Spain</li>
   <li>💡 Passionate about AI, computer vision, generative models and MLOps</li>
-  <li>📚 Currently learning about large language models and deep neural networks</li>
+  <li>📚 Currently researching about oversampling techniques for unbalanced classification problems</li>
   <li>🚀 Love building creative and data-driven projects</li>
 </ul>
 
@@ -31,13 +31,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnaiLalana&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
